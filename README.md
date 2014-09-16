@@ -1,4 +1,4 @@
 IrisLib
 =======
 
-IrisLib -> it's a library generic for .NET
+IrisLib -> it's a generic library for .NET
